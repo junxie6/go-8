@@ -9,6 +9,12 @@ I wrote a blog post about this project which you can find [here](https://gyani.n
 
 ![Screen Shot](screenshots/PONG.png?raw=true)
 
+## Prerequisites
+
+```bash
+# apt-get install libgl1-mesa-dev xorg-dev libasound2-dev
+```
+
 ## Test Instructions
 
 ```bash
